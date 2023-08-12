@@ -7,4 +7,5 @@ int main() {
 	cout << NumberThree << endl;
 	cout << "----------------" << endl;
 	cout << NumberOne + NumberTwo + NumberThree << endl;
+	return 0;
 }
