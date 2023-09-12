@@ -12,7 +12,7 @@ void ReadNumber(int & Number)
 			Sum = Sum + Counter;
 		}
 	}
-        cout << "Sum = " << Sum << endl;
+        cout << "Sum = " << Sum << endl; 
 }
 int main()
 {
