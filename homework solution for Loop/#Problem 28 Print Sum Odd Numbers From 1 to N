@@ -10,9 +10,9 @@ void ReadNumber(int & Number)
 		if (Counter % 2 != 0)
 		{
 			Sum = Sum + Counter;
-			cout << "Sum = " << Sum << endl;
 		}
 	}
+        cout << "Sum = " << Sum << endl;
 }
 int main()
 {
